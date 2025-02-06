@@ -1,0 +1,5 @@
+2_docker_sql/ny_taxi_postgres_data/pg_hba.conf
+2_docker_sql/ny_taxi_postgres_data/pg_ident.conf
+2_docker_sql/ny_taxi_postgres_data/postgresql.auto.conf
+2_docker_sql/ny_taxi_postgres_data/postgresql.conf
+2_docker_sql/ny_taxi_postgres_data/postmaster.pid
